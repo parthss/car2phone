@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Cluster.qml</file>
+        <file>qml/Gauge.qml</file>
+        <file>qml/TellTales.qml</file>
+        <file>qml/ContentZone.qml</file>
+    </qresource>
+</RCC>
