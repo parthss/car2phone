@@ -81,4 +81,4 @@ Car2Phone is not affiliated with Google, Apple, Harman or any carmaker. Profiles
 
 ## License
 
-Apache-2.0 (proposed — chosen for its patent grant, which OEMs and tier-1s generally require). Files carry SPDX headers; add the full `LICENSE` text before the first public release.
+[Apache-2.0](LICENSE), chosen for its patent grant, which OEMs and tier-1s generally require. Source files carry SPDX headers.
